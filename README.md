@@ -2,6 +2,7 @@
 
 - Search for the recipes with the available ingredients.
 - Provides the various ingredients and the preparation steps
+- Build on top of REACT.JS, TAILWINDCSS, NODEJS, EXPRESSJS
 - simple UI
 
 # Supporting Screenshot
